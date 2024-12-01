@@ -1,6 +1,8 @@
 from ecomapp import views
 from django.urls import path
 
+
 urlpatterns = [
-    path('api/',views.getRoutes,name="getRoutes"),
+    path('',views.getRoutes,name="getRoutes"),
+    path('products/',views.getProduct,name='getproduct')
 ]

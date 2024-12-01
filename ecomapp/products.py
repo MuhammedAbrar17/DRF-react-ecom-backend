@@ -1,0 +1,20 @@
+Products = [
+    {
+        "_id":1,
+        "productname":"camera",
+        "category":"electronics",
+        "price":50000
+    },
+    {
+        "_id":2,
+        "productname":"Laptop",
+        "category":"electronics",
+        "price":100000
+    },
+    {
+        "_id":3,
+        "productname":"Mobilephone",
+        "category":"electronics",
+        "price":50000
+    }
+]
